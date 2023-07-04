@@ -1,2 +1,2 @@
 # Map_in_Shell
-Java HashMap equivalent for Shell Scripts.
+Java HashMap and Order HashMap equivalent for Bash and Zsh Shell Scripts.
